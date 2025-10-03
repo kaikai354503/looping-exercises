@@ -9,12 +9,5 @@ public class whileloop {
             System.out.println("I Love Java");
 
         }
-
-
-
-
-
-
-
     }
 }
